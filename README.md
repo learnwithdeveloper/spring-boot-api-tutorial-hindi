@@ -1,6 +1,6 @@
 # 🚀 Spring Boot REST API in Hindi 🌿 | Java Backend Tutorial for Beginners
 
-This repository contains the source code for the **"Build Your First REST API with Spring Boot in Hindi"** tutorial on my YouTube channel **[Learn With Developer](https://youtube.com/@LearnWithDeveloper)**.
+This repository contains the source code for the **"Build Your First REST API with Spring Boot in Hindi"** tutorial on my YouTube channel **[Learn With Developer](https://youtube.com/@LearnWithDeveloper01)**.
 
 In this tutorial, you’ll learn how to create your first REST API using **Spring Boot** — step-by-step in Hindi. Perfect for beginners starting their **Java backend development** journey.
 
@@ -20,7 +20,7 @@ In this tutorial, you’ll learn how to create your first REST API using **Sprin
 
 ## ▶ Watch the Tutorial
 
-📺 **YouTube Video:** [Build Your First REST API with Spring Boot in Hindi](https://youtube.com/your-video-link)
+📺 **YouTube Video:** [Build Your First REST API with Spring Boot in Hindi](https://youtu.be/cnYhJoz_H1s)
 
 ## 📌 Next Steps
 
